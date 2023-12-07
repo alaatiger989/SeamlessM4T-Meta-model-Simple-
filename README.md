@@ -4,3 +4,6 @@
 
 # Download the model: 
 https://huggingface.co/facebook/seamless-m4t-unity-small/blob/main/unity_on_device.ptl 
+
+after downloading the model put it with ipynb file
+
